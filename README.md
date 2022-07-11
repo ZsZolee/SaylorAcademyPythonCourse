@@ -1,1 +1,3 @@
-# All the course scripts I written.
+# READ ME!
+
+All the course scripts I written. :)
